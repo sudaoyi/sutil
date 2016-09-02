@@ -8,3 +8,20 @@ describe('sutil',()=>{
 	})
 
 })
+
+describe('sutil',()=>{
+	describe('#objFunction',()=>{
+		it('return true',()=>{
+			assert.equal(_.reduce({x:1},{x:2}),{x:1});
+		})
+	})
+
+})
+describe('sutil',()=>{
+	describe('#objFunction',()=>{
+		it('return true',()=>{
+			assert.equal(_.reduceRight({x:1},{x:2}),{x:2});
+		})
+	})
+
+})

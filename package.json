@@ -1,7 +1,7 @@
 {
   "name": "sutil",
   "version": "0.0.1",
-  "description": "sudaoyi' util library",
+  "description": "sudaoyi's util library",
   "main": "index.js",
   "directories": {
     "test": "test"
